@@ -45,7 +45,7 @@ The distance calculated by each ultrasonic sensor corresponds to the following i
 
 Here is a diagram of the position of ultrasonic sensors on Quickie:
 
-![](https://github.com/EE3-DTPRJ-Robot-Intelligence/Documentation-draft/blob/master/Ultrasonic/Position_of%20ultrasonic.PNG)
+![](https://github.com/EE3-DTPRJ-Robot-Intelligence/Ultrasonic/blob/master/Position_of%20ultrasonic.PNG)
 
 Bearing in mind that distances exceeding the range is set to 0, the algorithm formulated is as follows:
 ```python
